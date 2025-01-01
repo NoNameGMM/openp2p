@@ -20,11 +20,11 @@ const SupportIntranetVersion = "3.14.5"
 const SupportDualTunnelVersion = "3.15.5"
 
 const (
-	IfconfigPort1 = 27180
-	IfconfigPort2 = 27181
-	WsPort        = 27183
-	UDPPort1      = 27182
-	UDPPort2      = 27183
+	IfconfigPort1 = 17230
+	IfconfigPort2 = 17241
+	WsPort        = 17242
+	UDPPort1      = 17231
+	UDPPort2      = 17242
 )
 
 type openP2PHeader struct {
