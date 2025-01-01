@@ -8,7 +8,7 @@ require (
 	github.com/openp2p-cn/go-reuseport v0.3.2
 	github.com/openp2p-cn/service v1.0.0
 	github.com/openp2p-cn/totp v0.0.0-20230421034602-0f3320ffb25e
-	github.com/quic-go/quic-go v0.34.0
+	github.com/quic-go/quic-go v0.48.2
 	github.com/vishvananda/netlink v1.1.1-0.20211118161826-650dca95af54
 	github.com/xtaci/kcp-go/v5 v5.5.17
 	golang.org/x/sys v0.26.0
